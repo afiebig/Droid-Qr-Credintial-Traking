@@ -2,4 +2,12 @@
 <resources>
     <string name="hello">Hello, Android! I am a string resource!</string>
     <string name="app_name">Hello, Android</string>
+    <string name="warning">Warning, You must have instaled QrDroid to run this app</string>
+    <string name="close">close</string>
+    <string name="qrdroid_missing">QR Droid version 3.5 or later is required. Do you want to download or update it for free?</string>
+    <string name="cancel">Cancel</string>
+    <string name="from_market">From the Market</string>
+    <string name="direct">Direct download</string>
+    <string name="url_market">http://market.android.com/details?id=la.droid.qr</string>
+    <string name="url_direct">http://droid.la/apk/qr/</string>
 </resources>
