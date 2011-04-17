@@ -1,0 +1,3 @@
+rut		: 16320457-6
+hash	: a9fdb18a6fb6da28be471b7af8df0dba5c4724e3
+url		: http://qrdroid.com/qalx	
