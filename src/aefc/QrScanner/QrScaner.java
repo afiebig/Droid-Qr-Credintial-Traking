@@ -17,6 +17,7 @@ import android.net.Uri;
 
 public class QrScaner extends Activity {
 	/** Called when the activity is first created. */
+	@SuppressWarnings("unused")
 	private String hashRut;
 	private static final int ACTIVITY_RESULT_QR_DRDROID = 0;
 
